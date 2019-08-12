@@ -1,3 +1,5 @@
+package com.practice.test;
+
 import static org.junit.Assert.*;
 
 import java.util.HashMap;
