@@ -21,6 +21,7 @@ public class TestDebug {
 
 	@AfterClass
 	public static void tearDownAfterClass() throws Exception {
+		
 	}
 
 	@Before
